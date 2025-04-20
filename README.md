@@ -1,7 +1,7 @@
-# 🚀 AI & Full-Stack Developer | Tech Explorer  
+#  Tech Explorer  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=I+am+priya+the+legend.;Welcome+to+my+GitHub+page!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=I+am+priya.;Welcome+to+my+GitHub+page!" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -53,10 +53,10 @@
 
 ## 🌍 Let's Connect!  
 <p align="center">
-  <a href="https://www.linkedin.com/in/deepak-saminathan/" target="_blank">
+  <a href="https://www.linkedin.com/in/priya-dharshini-r-358465291" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/d.pak_07/" target="_blank">
+  <a href="https://www.instagram.com/_priyaa__.r/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
