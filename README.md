@@ -1,57 +1,78 @@
-#  Tech Explorer  
+# 👩‍💻 Tech Explorer | Neural Network Enthusiast  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=I+am+priya.;Welcome+to+my+GitHub+page!" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800" alt="Neural Network Animation">
 </p>
 
 <p align="center">
-  <svg width="100%" height="150">
-    <defs>
-      <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#FF5733;stop-opacity:1">
-          <animate attributeName="offset" values="0;1;0" dur="5s" repeatCount="indefinite" />
-        </stop>
-        <stop offset="100%" style="stop-color:#33FF57;stop-opacity:1">
-          <animate attributeName="offset" values="1;0;1" dur="5s" repeatCount="indefinite" />
-        </stop>
-      </linearGradient>
-    </defs>
-    <rect width="100%" height="150" fill="url(#grad1)" />
-  </svg>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6F61&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Priya+🚀;AI+%7C+ML+%7C+Backend+%7C+Cloud+Explorer;Crafting+Smart+Solutions+with+Code+🧠;Welcome+to+my+GitHub+Universe!+🌌" />
 </p>
 
-> **“Building Intelligent Solutions, One Line of Code at a Time.”**
+> _“Turning curiosity into code — building smarter systems every day.”_
 
-🎓 **Pursuing Artificial Intelligence & Data Science** at Velammal Engineering College  
-💡 **Passionate about:** AI, ML, Web Development 
-⚡ **Currently Working On:** My College Website Project  
-📚 **Currently Learning:** TensorFlow, Flutter, AWS, Firebase & Cloud Computing  
+🎓 **Student @ Velammal Engineering College**  
+💡 **Interests:** Machine Learning, Deep Learning, Neural Networks, Backend APIs, UI/UX, Flutter  
+☁️ **Currently Learning:** TensorFlow • Google Cloud • Docker • Firebase  
+🚧 **Projects:** AI-Based College Website • Personal UI Portfolio • Neural Network Playground
 
 ---
 
-## 🛠 Tech Stack  
-### 🚀 Programming Languages & Frameworks  
+## 🏆 Achievements & Certifications  
+
+- 🧠 **Deep Learning Specialization - Coursera**
+- ☁️ **AWS Cloud Practitioner (In Progress)**
+- 🚀 **Built 10+ Projects** across AI, Web, and App Development  
+- 🥇 **Top 10 Finalist @ Tech Hack 2024**  
+- 👩‍💻 **1.2k+ GitHub contributions in 2024**  
+
+---
+
+## 🧠 Tech Toolbox  
+
+### 🚀 Languages & Frameworks  
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 </p>
 
-### ☁️ Databases & Cloud Technologies  
+### 🧰 Tools & Platforms  
 <p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+### ☁️ Cloud & Databases  
+<p align="center">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
 
-## 🌍 Let's Connect!  
+## 🔥 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyaravi11&theme=tokyonight&hide_border=true" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=Priyaravi11&show_icons=true&theme=radical&hide_border=true" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyaravi11&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Let's Connect
+
 <p align="center">
   <a href="https://www.linkedin.com/in/priya-dharshini-r-358465291" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -61,19 +82,9 @@
   </a>
 </p>
 
-🎯 **Mission:** Keep learning, keep building, and explore new tech! 🚀
+---
 
-<!--
-**Priyaravi11/Priyaravi11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 Mission  
+> _"To build intelligent and impactful software that transforms ideas into reality, one commit at a time."_  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Inspired by a mind that loves learning, building, and growing. -->
