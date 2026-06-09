@@ -21,9 +21,8 @@
 
 - 🧠 **Deep Learning Specialization - Coursera**
 - ☁️ **AWS Cloud Practitioner (In Progress)**
-- 🚀 **Built 10+ Projects** across AI, Web, and App Development  
-- 🥇 **Top 10 Finalist @ Tech Hack 2024**  
-- 👩‍💻 **1.2k+ GitHub contributions in 2024**  
+- 🚀 **Built 5+ Projects** across AI, Web, and App Development  
+- 🥇 **Top 10 Finalist @ Tech Hack 2024**    
 
 ---
 
